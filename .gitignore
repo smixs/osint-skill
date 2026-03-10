@@ -1,0 +1,20 @@
+# API keys and tokens
+*-api-key.txt
+*-api-token.txt
+*-mcp-url.txt
+.env
+.env.*
+
+# OSINT output
+/tmp/osint-*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node
+node_modules/
+
+# Python
+__pycache__/
+*.pyc
